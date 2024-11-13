@@ -1,5 +1,5 @@
 # About the project
-# Hello world with Python and Sererless
+# Hello world with Python and Serverless
 
 This is a basic project with python and print the message " Hello World". This project used a Serverless "Render".
 
@@ -11,6 +11,9 @@ This project build with:
  * Flask
 
 ## Getting Started
+
+### Use the project locally
+
 * Clone the repository
 
     ```
