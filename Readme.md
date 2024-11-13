@@ -7,7 +7,6 @@ This is a basic project with python and print the message " Hello World". This p
 
 This project build with:
  * Python
- * Dockerfile
  * Flask
 
 ## Getting Started
